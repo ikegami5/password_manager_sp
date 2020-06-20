@@ -10,6 +10,9 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-community/clipboard": "^1.2.2",
+    "@react-native-community/picker": "^1.6.3",
+    "crypto-js": "3",
     "react": "16.11.0",
     "react-native": "0.62.2",
     "react-native-fs": "^2.16.6"
